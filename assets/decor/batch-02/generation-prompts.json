@@ -1,0 +1,71 @@
+{
+  "mode": "built-in image_gen",
+  "requests": [
+    {
+      "key": "pen",
+      "name": "Бордовая ручка",
+      "cm": [
+        14,
+        1.1
+      ],
+      "detail": "Subject: one elegant practical capped ballpoint pen, 14 cm total length and about 1.1 cm body diameter. Satin muted deep burgundy barrel and cap, restrained brushed steel clip and small metal accents. Cap firmly attached to the writing end, no exposed separate parts. A slightly rounded slim silhouette, realistic manufacturing details. Place almost horizontally, cap on right, with very slight 5-degree upward tilt toward the right. Avoid luxurious gold embellishment or exaggerated thickness.",
+      "prompt": "Use case: product-mockup. Exactly one realistic office object, matching a refined warm-paper manager's notebook interface. Reusable isolated transparent-background PNG with true alpha, no desk, no backdrop. Camera precisely perpendicular overhead, orthographic 90-degree flat lay, no perspective convergence. Soft diffuse daylight from upper left, tiny restrained near-contact translucent shadow toward lower right; no broad grey halo. Photographic natural materials with subtle texture, muted cream, warm grey, deep burgundy (#70304D family). Entire object visible with generous padding. No brand names, logos, text, numbers, symbols, watermark, dimensions, rulers for comparison, hands, extra objects or decoration. Physical dimensions below guide construction and later scale matching; do not draw dimension labels. Not a cartoon, vector icon or glossy CGI. Subject: one elegant practical capped ballpoint pen, 14 cm total length and about 1.1 cm body diameter. Satin muted deep burgundy barrel and cap, restrained brushed steel clip and small metal accents. Cap firmly attached to the writing end, no exposed separate parts. A slightly rounded slim silhouette, realistic manufacturing details. Place almost horizontally, cap on right, with very slight 5-degree upward tilt toward the right. Avoid luxurious gold embellishment or exaggerated thickness."
+    },
+    {
+      "key": "ruler",
+      "name": "Деревянная линейка",
+      "cm": [
+        20,
+        2.5
+      ],
+      "detail": "Subject: one short natural pale birch wooden ruler, physical width 20 cm and height 2.5 cm, thin flat construction, softened corners, fine longitudinal wood grain. Unnumbered fine engraved measurement tick marks along ONE long edge only, regular spacing with occasional longer major ticks. No numerals, text, logo, printed labels or holes. Mostly horizontal orientation, slight 3-degree upward tilt to the right. Natural everyday tool, not school cartoon.",
+      "prompt": "Use case: product-mockup. Exactly one realistic office object, matching a refined warm-paper manager's notebook interface. Reusable isolated transparent-background PNG with true alpha, no desk, no backdrop. Camera precisely perpendicular overhead, orthographic 90-degree flat lay, no perspective convergence. Soft diffuse daylight from upper left, tiny restrained near-contact translucent shadow toward lower right; no broad grey halo. Photographic natural materials with subtle texture, muted cream, warm grey, deep burgundy (#70304D family). Entire object visible with generous padding. No brand names, logos, text, numbers, symbols, watermark, dimensions, rulers for comparison, hands, extra objects or decoration. Physical dimensions below guide construction and later scale matching; do not draw dimension labels. Not a cartoon, vector icon or glossy CGI. Subject: one short natural pale birch wooden ruler, physical width 20 cm and height 2.5 cm, thin flat construction, softened corners, fine longitudinal wood grain. Unnumbered fine engraved measurement tick marks along ONE long edge only, regular spacing with occasional longer major ticks. No numerals, text, logo, printed labels or holes. Mostly horizontal orientation, slight 3-degree upward tilt to the right. Natural everyday tool, not school cartoon."
+    },
+    {
+      "key": "binder",
+      "name": "Канцелярский зажим",
+      "cm": [
+        3.2,
+        5
+      ],
+      "detail": "Subject: one SMALL real muted burgundy metal foldback binder clip, body width 3.2 cm, total top-to-bottom length about 5 cm with two thin brushed silver wire handles. Clip resting flat, black/burgundy folded steel body at bottom, wire handles extending upward in the plane of the tabletop; believable physically correct construction. Camera directly overhead, entire clip visible, not a paperclip wire loop and not an upright office sculpture. Satin painted metal, understated natural highlights. No paper or document attached.",
+      "prompt": "Use case: product-mockup. Exactly one realistic office object, matching a refined warm-paper manager's notebook interface. Reusable isolated transparent-background PNG with true alpha, no desk, no backdrop. Camera precisely perpendicular overhead, orthographic 90-degree flat lay, no perspective convergence. Soft diffuse daylight from upper left, tiny restrained near-contact translucent shadow toward lower right; no broad grey halo. Photographic natural materials with subtle texture, muted cream, warm grey, deep burgundy (#70304D family). Entire object visible with generous padding. No brand names, logos, text, numbers, symbols, watermark, dimensions, rulers for comparison, hands, extra objects or decoration. Physical dimensions below guide construction and later scale matching; do not draw dimension labels. Not a cartoon, vector icon or glossy CGI. Subject: one SMALL real muted burgundy metal foldback binder clip, body width 3.2 cm, total top-to-bottom length about 5 cm with two thin brushed silver wire handles. Clip resting flat, black/burgundy folded steel body at bottom, wire handles extending upward in the plane of the tabletop; believable physically correct construction. Camera directly overhead, entire clip visible, not a paperclip wire loop and not an upright office sculpture. Satin painted metal, understated natural highlights. No paper or document attached."
+    },
+    {
+      "key": "small-sticky",
+      "name": "Маленький стикер",
+      "cm": [
+        7.5,
+        7.5
+      ],
+      "detail": "Subject: one small square sticky note 7.5 by 7.5 cm, pale muted warm butter cream yellow paper. Blank front with no writing or lines. The top adhesive edge lies flat; the bottom-right corner lifts only a few millimeters with a gentle realistic shallow curl and a tiny soft contact shadow underneath. Delicate paper fibers, matte surface, nearly even natural tone. Edges straight and square, no torn edge or heavy wrinkle. Slight 2-degree counterclockwise rotation in the image plane. The note must remain clean and legible as a future surface for live HTML text.",
+      "prompt": "Use case: product-mockup. Exactly one realistic office object, matching a refined warm-paper manager's notebook interface. Reusable isolated transparent-background PNG with true alpha, no desk, no backdrop. Camera precisely perpendicular overhead, orthographic 90-degree flat lay, no perspective convergence. Soft diffuse daylight from upper left, tiny restrained near-contact translucent shadow toward lower right; no broad grey halo. Photographic natural materials with subtle texture, muted cream, warm grey, deep burgundy (#70304D family). Entire object visible with generous padding. No brand names, logos, text, numbers, symbols, watermark, dimensions, rulers for comparison, hands, extra objects or decoration. Physical dimensions below guide construction and later scale matching; do not draw dimension labels. Not a cartoon, vector icon or glossy CGI. Subject: one small square sticky note 7.5 by 7.5 cm, pale muted warm butter cream yellow paper. Blank front with no writing or lines. The top adhesive edge lies flat; the bottom-right corner lifts only a few millimeters with a gentle realistic shallow curl and a tiny soft contact shadow underneath. Delicate paper fibers, matte surface, nearly even natural tone. Edges straight and square, no torn edge or heavy wrinkle. Slight 2-degree counterclockwise rotation in the image plane. The note must remain clean and legible as a future surface for live HTML text."
+    }
+  ],
+  "selectedShadowlessVariants": [
+    {
+      "key": "ruler",
+      "name": "Линейка — вариант без тени",
+      "prompt": "Shadowless flatbed-scan-quality isolated object, realistic photograph of exactly one small pale birch wooden 20 cm ruler, unnumbered fine engraved ticks along one edge, horizontal with a 3 degree tilt, authentic fine wood grain and softened ends. TRUE TRANSPARENT BACKGROUND. ZERO cast shadow, ZERO glow, ZERO halo, ZERO surrounding color or haze. Only the physical ruler pixels, with a clean tight alpha silhouette. Everything outside the wood is completely empty transparent. Do not include any backing surface. No text, numbers, logos, extra objects, frame or labels. Camera exactly perpendicular top-down. Lighting is flat soft diffuse illumination; no directional shadow at all. Product intended to be composited on a light webpage. Full ruler with transparent padding."
+    },
+    {
+      "key": "binder",
+      "name": "Зажим — вариант без тени",
+      "prompt": "Shadowless isolated cutout photograph of exactly one small satin muted burgundy foldback binder clip, 3.2 cm wide body, total height 5 cm including natural brushed silver wire handles, laying flat and photographed directly from above. Real steel construction, handle folded upward along the plane of the desk. TRUE TRANSPARENT BACKGROUND. ZERO cast shadow, ZERO glow, ZERO halo, ZERO grey color haze. Only the physical burgundy steel and thin silver wire pixels. The entire opening inside the wire handle and all space around the object must be fully empty transparent alpha. No ground plane or backing surface. Flat diffuse photographic illumination with NO directional shadow. No papers, text, logos, extra objects, dimensions or frames. Full object with transparent padding."
+    }
+  ],
+  "discardedEditAttempts": [
+    {
+      "key": "ruler",
+      "path": "C:/Users/Lenovo/.codex/generated_images/01a162fe-ee94-74f0-96d2-feff0ee7c168/exec-7b91381b-3e4b-492b-a574-d0c1c1adc543.png",
+      "name": "Линейка — чистый край",
+      "prompt": "Edit only the background alpha and shadow of this wooden ruler cutout. Preserve the exact ruler, wood grain, dimensions, orientation and engraved unnumbered tick marks. Remove the entire large fuzzy tan/brown glow and broad blurred shadow surrounding the ruler. Pixels outside the ruler must be genuinely fully transparent, except an extremely tight low-opacity contact shadow within approximately 2 to 4 pixels of the ruler edge. Keep the wooden material fully opaque and natural. Do not crop the ruler or add anything. No backdrop, text, numbers, dimensions, desk or additional objects."
+    },
+    {
+      "key": "binder",
+      "path": "C:/Users/Lenovo/.codex/generated_images/01a162fe-ee94-74f0-96d2-feff0ee7c168/exec-4bbad1f2-3826-4bcb-947d-ae2392c6e478.png",
+      "name": "Зажим — чистый край",
+      "prompt": "Edit only the background alpha and shadow of this burgundy binder clip cutout. Preserve the exact burgundy metal body, steel wire handle, proportions, orientation and photographic material detail. Remove the entire broad fuzzy grey and burgundy halo around and inside the handle. All space outside the physical clip, including the hole inside its wire loop, must be genuinely transparent with near-zero alpha. Keep at most a very tight low-opacity contact shadow within 2 to 4 pixels of the object edge, no atmospheric glow. Keep physical metal and wire fully visible. No paper, background, writing, marks, logo or added object. Entire clip visible."
+    }
+  ]
+}

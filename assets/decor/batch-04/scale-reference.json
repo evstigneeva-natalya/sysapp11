@@ -1,0 +1,47 @@
+{
+  "note": "Approximate physical width anchors; preserve aspect ratio and calibrate visible object bounds. Paper background reused from approved batch 03. Chart is deterministic SVG, not AI-generated data. Both Batch 04 assets approved by the user on 2026-10-22.",
+  "items": [
+    {
+      "name": "envelope",
+      "status": "approved",
+      "physicalWidthCm": 23,
+      "approxPhysicalHeightCm": 16,
+      "canvas": {
+        "width": 800,
+        "height": 553
+      },
+      "opaqueBounds": {
+        "left": 36,
+        "top": 48,
+        "width": 729,
+        "height": 457
+      },
+      "previewBytes": 72170,
+      "approvedOn": "2026-10-22"
+    },
+    {
+      "name": "chart-sheet",
+      "status": "approved",
+      "physicalWidthCm": 21,
+      "approxPhysicalHeightCm": 29.7,
+      "canvas": {
+        "width": 800,
+        "height": 1131
+      },
+      "opaqueBounds": {
+        "left": 44,
+        "top": 71,
+        "width": 713,
+        "height": 998
+      },
+      "previewBytes": 65704,
+      "approvedOn": "2026-10-22",
+      "data": {
+        "metric": "Количество увольнений за квартал",
+        "actual": 5,
+        "targetUpperBound": 2
+      },
+      "usage": "Only after these values have been disclosed by the lesson; must not hint answers before the exercise is checked."
+    }
+  ]
+}

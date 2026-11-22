@@ -1,0 +1,90 @@
+{
+  "note": "Approximate physical dimensions for visual scale, not measurements of real objects. Sizes apply to the opaque object, not the image canvas. Preview encoding preserves aspect ratio and transparency. All items share an orthographic overhead view and upper-left diffuse light.",
+  "items": [
+    {
+      "name": "folder",
+      "physicalWidthCm": 24,
+      "approxPhysicalHeightCm": 32,
+      "canvas": {
+        "width": 800,
+        "height": 1067
+      },
+      "opaqueBounds": {
+        "left": 64,
+        "top": 105,
+        "width": 682,
+        "height": 873
+      },
+      "previewBytes": 112836,
+      "status": "approved"
+    },
+    {
+      "name": "planner",
+      "physicalWidthCm": 15,
+      "approxPhysicalHeightCm": 21,
+      "canvas": {
+        "width": 800,
+        "height": 1120
+      },
+      "opaqueBounds": {
+        "left": 73,
+        "top": 110,
+        "width": 653,
+        "height": 902
+      },
+      "previewBytes": 214888,
+      "status": "approved"
+    },
+    {
+      "name": "coffee",
+      "physicalWidthCm": 11,
+      "approxPhysicalHeightCm": 8,
+      "canvas": {
+        "width": 800,
+        "height": 582
+      },
+      "opaqueBounds": {
+        "left": 152,
+        "top": 83,
+        "width": 525,
+        "height": 398
+      },
+      "previewBytes": 46088,
+      "status": "approved"
+    },
+    {
+      "name": "glasses",
+      "physicalWidthCm": 14,
+      "approxPhysicalHeightCm": 5.2,
+      "canvas": {
+        "width": 800,
+        "height": 400
+      },
+      "opaqueBounds": {
+        "left": 25,
+        "top": 99,
+        "width": 751,
+        "height": 216
+      },
+      "previewBytes": 65236,
+      "status": "rejected",
+      "reason": "User rejected as unnatural on 2026-10-22; excluded from the decor set and future compositions."
+    },
+    {
+      "name": "pencil",
+      "physicalWidthCm": 18,
+      "approxPhysicalHeightCm": null,
+      "canvas": {
+        "width": 800,
+        "height": 271
+      },
+      "opaqueBounds": {
+        "left": 20,
+        "top": 98,
+        "width": 760,
+        "height": 80
+      },
+      "previewBytes": 16664
+    }
+  ]
+}

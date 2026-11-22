@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "date": "2026-10-22",
+  "items": [
+    {
+      "id": "folder",
+      "name": "Папка для документов",
+      "status": "approved",
+      "original": "batch-01/folder-v1.png",
+      "preview": "batch-01/folder-preview.webp",
+      "physicalWidthCm": 24,
+      "previewBytes": 112836
+    },
+    {
+      "id": "planner",
+      "name": "Закрытый ежедневник",
+      "status": "approved",
+      "original": "batch-01/planner-v1.png",
+      "preview": "batch-01/planner-preview.webp",
+      "physicalWidthCm": 15,
+      "previewBytes": 214888
+    },
+    {
+      "id": "coffee",
+      "name": "Чашка кофе",
+      "status": "approved",
+      "original": "batch-01/coffee-v1.png",
+      "preview": "batch-01/coffee-preview.webp",
+      "physicalWidthCm": 11,
+      "previewBytes": 46088
+    },
+    {
+      "id": "pencil",
+      "name": "Бордовый карандаш",
+      "status": "approved",
+      "original": "batch-01/pencil-v1.png",
+      "preview": "batch-01/pencil-preview.webp",
+      "physicalWidthCm": 18,
+      "previewBytes": 16664
+    },
+    {
+      "id": "pen",
+      "name": "Бордовая ручка",
+      "status": "approved",
+      "original": "batch-02/pen-v1.png",
+      "preview": "batch-02/pen-preview.webp",
+      "physicalWidthCm": 14,
+      "previewBytes": 18736
+    },
+    {
+      "id": "ruler",
+      "name": "Деревянная линейка",
+      "status": "approved",
+      "original": "batch-02/ruler-v1.png",
+      "preview": "batch-02/ruler-preview.webp",
+      "physicalWidthCm": 20,
+      "previewBytes": 20192
+    },
+    {
+      "id": "binder",
+      "name": "Канцелярский зажим",
+      "status": "approved",
+      "original": "batch-02/binder-v1.png",
+      "preview": "batch-02/binder-preview.webp",
+      "physicalWidthCm": 3.2,
+      "previewBytes": 55088
+    },
+    {
+      "id": "small-sticky",
+      "name": "Маленький стикер",
+      "status": "approved",
+      "original": "batch-02/small-sticky-v1.png",
+      "preview": "batch-02/small-sticky-preview.webp",
+      "physicalWidthCm": 7.5,
+      "previewBytes": 47118
+    },
+    {
+      "id": "large-note",
+      "name": "Большая записка",
+      "status": "approved",
+      "original": "batch-03/large-note-v1.png",
+      "preview": "batch-03/large-note-preview.webp",
+      "physicalWidthCm": 21,
+      "previewBytes": 26912
+    },
+    {
+      "id": "white-sheet",
+      "name": "Белый вложенный лист",
+      "status": "approved",
+      "original": "batch-03/white-sheet-v1.png",
+      "preview": "batch-03/white-sheet-preview.webp",
+      "physicalWidthCm": 21,
+      "previewBytes": 65704
+    },
+    {
+      "id": "grid-sheet",
+      "name": "Лист в клетку",
+      "status": "approved",
+      "original": "batch-03/grid-sheet-v1.png",
+      "preview": "batch-03/grid-sheet-preview.webp",
+      "physicalWidthCm": 14.8,
+      "previewBytes": 64996
+    },
+    {
+      "id": "folded-corner",
+      "name": "Загнутый уголок",
+      "status": "approved",
+      "original": "batch-03/folded-corner-v1.png",
+      "preview": "batch-03/folded-corner-preview.webp",
+      "physicalWidthCm": 5,
+      "previewBytes": 39498
+    },
+    {
+      "id": "envelope",
+      "name": "Конверт",
+      "status": "approved",
+      "original": "batch-04/envelope-v1.png",
+      "preview": "batch-04/envelope-preview.webp",
+      "physicalWidthCm": 23,
+      "previewBytes": 72170
+    },
+    {
+      "id": "chart-sheet",
+      "name": "Лист с графиком",
+      "status": "approved",
+      "original": "batch-04/chart-sheet-v1.png",
+      "preview": "batch-04/chart-sheet-preview.webp",
+      "physicalWidthCm": 21,
+      "previewBytes": 73066
+    },
+    {
+      "id": "paperclip",
+      "name": "Серебристая скрепка",
+      "status": "approved",
+      "original": "core/paperclip-v1.png",
+      "preview": "core/paperclip-preview.webp",
+      "physicalWidthCm": 3.3,
+      "previewBytes": 31962
+    }
+  ],
+  "excluded": [
+    "glasses",
+    "masking tape",
+    "eraser"
+  ],
+  "note": "All 15 assets approved as visual resources. Selected assets implemented on visible lesson screens 3–9 in Lesson_V169.html as authorized by the user. Screens 1,2,10 excluded. Other approved assets remain available alternatives. Physical sizes apply to visible objects, not transparent canvas margins."
+}

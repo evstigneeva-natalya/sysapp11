@@ -1,0 +1,77 @@
+{
+  "note": "Approximate physical size anchors, applied to visible object bounds rather than canvas. Preserve aspect ratio. All four Batch 02 objects approved by the user on 2026-10-22.",
+  "items": [
+    {
+      "name": "pen",
+      "status": "approved",
+      "physicalWidthCm": 14,
+      "approxPhysicalHeightCm": 1.1,
+      "canvas": {
+        "width": 800,
+        "height": 400
+      },
+      "opaqueBounds": {
+        "left": 30,
+        "top": 156,
+        "width": 737,
+        "height": 88
+      },
+      "previewBytes": 18736,
+      "approvedOn": "2026-10-22"
+    },
+    {
+      "name": "ruler",
+      "status": "approved",
+      "physicalWidthCm": 20,
+      "approxPhysicalHeightCm": 2.5,
+      "canvas": {
+        "width": 800,
+        "height": 291
+      },
+      "opaqueBounds": {
+        "left": 19,
+        "top": 101,
+        "width": 763,
+        "height": 89
+      },
+      "previewBytes": 20192,
+      "approvedOn": "2026-10-22"
+    },
+    {
+      "name": "binder",
+      "status": "approved",
+      "physicalWidthCm": 3.2,
+      "approxPhysicalHeightCm": 5,
+      "canvas": {
+        "width": 800,
+        "height": 731
+      },
+      "opaqueBounds": {
+        "left": 178,
+        "top": 43,
+        "width": 445,
+        "height": 644
+      },
+      "previewBytes": 55088,
+      "approvedOn": "2026-10-22"
+    },
+    {
+      "name": "small-sticky",
+      "status": "approved",
+      "physicalWidthCm": 7.5,
+      "approxPhysicalHeightCm": 7.5,
+      "canvas": {
+        "width": 800,
+        "height": 750
+      },
+      "opaqueBounds": {
+        "left": 73,
+        "top": 73,
+        "width": 644,
+        "height": 606
+      },
+      "previewBytes": 47118,
+      "approvedOn": "2026-10-22"
+    }
+  ]
+}

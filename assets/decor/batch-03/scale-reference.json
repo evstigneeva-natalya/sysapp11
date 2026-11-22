@@ -1,0 +1,77 @@
+{
+  "note": "Approximate physical width anchors based on visible paper, preserve aspect ratio. No text baked into images. Grid is decorative, not an exact measurement reference. All four Batch 03 elements approved by the user on 2026-10-22.",
+  "items": [
+    {
+      "name": "large-note",
+      "status": "approved",
+      "physicalWidthCm": 21,
+      "approxPhysicalHeightCm": 12,
+      "canvas": {
+        "width": 800,
+        "height": 457
+      },
+      "opaqueBounds": {
+        "left": 45,
+        "top": 57,
+        "width": 710,
+        "height": 352
+      },
+      "previewBytes": 26912,
+      "approvedOn": "2026-10-22"
+    },
+    {
+      "name": "white-sheet",
+      "status": "approved",
+      "physicalWidthCm": 21,
+      "approxPhysicalHeightCm": 29.7,
+      "canvas": {
+        "width": 800,
+        "height": 1131
+      },
+      "opaqueBounds": {
+        "left": 44,
+        "top": 71,
+        "width": 713,
+        "height": 998
+      },
+      "previewBytes": 65704,
+      "approvedOn": "2026-10-22"
+    },
+    {
+      "name": "grid-sheet",
+      "status": "approved",
+      "physicalWidthCm": 14.8,
+      "approxPhysicalHeightCm": 21,
+      "canvas": {
+        "width": 800,
+        "height": 1131
+      },
+      "opaqueBounds": {
+        "left": 58,
+        "top": 78,
+        "width": 692,
+        "height": 987
+      },
+      "previewBytes": 64996,
+      "approvedOn": "2026-10-22"
+    },
+    {
+      "name": "folded-corner",
+      "status": "approved",
+      "physicalWidthCm": 5,
+      "approxPhysicalHeightCm": 5,
+      "canvas": {
+        "width": 800,
+        "height": 750
+      },
+      "opaqueBounds": {
+        "left": 252,
+        "top": 85,
+        "width": 531,
+        "height": 640
+      },
+      "previewBytes": 39498,
+      "approvedOn": "2026-10-22"
+    }
+  ]
+}
